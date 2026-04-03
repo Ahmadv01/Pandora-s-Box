@@ -17,8 +17,8 @@ Pandora's Box is an interactive puzzle game that combines Arduino with IoT capab
 - **Web Dashboard**: Built with HTML/CSS/JavaScript to display live stats, total time, and stage progression.
 ### Project Structure
 - **Arduino Code (Finalcode.ino)** - Controls game logic, interacts with sensors, and sends data to NodeMCU.
-- ** Firebase Uploader (uploadToFirebase.ino)** - Handles data transmission from NodeMCU to Firebase.
-- ** Web Interface (HTML.ino)** - Retrieves Firebase data and displays game results.
+- **Firebase Uploader (uploadToFirebase.ino)** - Handles data transmission from NodeMCU to Firebase.
+- **Web Interface (HTML.ino)** - Retrieves Firebase data and displays game results.
 #### Hardware
 - Arduino Uno
 - NodeMCU ESP8266
