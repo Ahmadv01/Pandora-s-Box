@@ -24,5 +24,5 @@ Pandora's Box is an interactive puzzle game that combines Arduino with IoT capab
 - NodeMCU ESP8266
 #### Prerequisites
 - Wire.h Library
-- FirebaseESP8266.h
-- ESP8266WiFi.h
+- FirebaseESP8266.h Library
+- ESP8266WiFi.h Library
